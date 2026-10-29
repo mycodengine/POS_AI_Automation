@@ -13,7 +13,7 @@ A comprehensive Proof of Concept demonstrating fast automation setup, practical 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/mycodengine/POS_AI_Automation
    cd POS_AI_Automation
    ```
 
